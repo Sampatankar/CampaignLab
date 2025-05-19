@@ -1,5 +1,5 @@
 Current Authors & Contributors:
-- Sam Patankar: Campaign Lab Scotland
+- Sam Patankar: Campaign Lab Scotland (Github: sampatankar, LinkedIn: sampatankar)
 
 The Project:
 - Ideation:
