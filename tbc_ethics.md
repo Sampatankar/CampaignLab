@@ -90,6 +90,6 @@ Risk & accountability	ICO DPIA guidelines, regular auditing practices
 
 ⸻
 
-Following these tailored UK-specific frameworks and guidelines ensures your AI image consent database operates ethically, legally, and effectively within England, Wales, Scotland, and Northern Ireland.
+
 
 To be double checked and plan to take ethics into to be ideated!
