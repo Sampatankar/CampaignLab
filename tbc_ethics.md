@@ -93,3 +93,8 @@ Risk & accountability	ICO DPIA guidelines, regular auditing practices
 
 
 To be double checked and plan to take ethics into to be ideated!
+
+
+
+
+This work is subject to the license conditions in license.txt

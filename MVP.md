@@ -16,3 +16,4 @@ MVP 1 - Develop facial recognition system:
     - trans & non-binary
  - develop facial recognition system based on these images
  
+This work is subject to the license conditions in license.txt

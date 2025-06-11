@@ -46,3 +46,6 @@ Phase 4: Security & Ethics:
 
 
 These phases are liable to change as we need to think about the MVP - separate document.
+
+
+This work is subject to the license conditions in license.txt
