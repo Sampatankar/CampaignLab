@@ -17,3 +17,10 @@ MVP 1 - Develop facial recognition system:
  - develop facial recognition system based on these images
  
 This work is subject to the license conditions in license.txt
+
+To Dos:
+Last week: (14/7/25)
+- Completed logic process for facial recognition part
+- check back in journal and CPGT search for top 10 models to investigate
+- check through lists and make notes in a separate readme file to go this folder
+- choose implementation and build (facial detector, recogniser, embedder - or all-in-one)
